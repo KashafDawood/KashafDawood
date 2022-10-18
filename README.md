@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kashaf Dawood</h1>
+<img src="https://camo.githubusercontent.com/23479259ab03b9d3a15b6e73920375b5367fa337d1d0961a36c3f7240641e816/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b546869732b69732b48617269732e2e2e2e3b4e6963652b746f2b6d6565742b796f75212663656e7465723d747275652673697a653d3330" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kashaf+Dawood....;Nice+to+meet+you!&amp;center=true&amp;size=30" style="max-width: 100%;">
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashafdawood&label=Profile%20views&color=0e75b6&style=flat" alt="kashafdawood" /> </p>
