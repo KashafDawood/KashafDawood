@@ -91,4 +91,4 @@
 </a>
 
 
-![Kashaf's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KashafDawood&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![Kashaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KashafDawood&bg_color=1c1c1c&color=b621ca&line=a012d3&point=b80de7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
