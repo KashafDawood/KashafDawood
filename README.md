@@ -3,7 +3,8 @@
         <samp>&gt; Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> There!, I am Kashaf Dawood </samp>
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C09F7&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACK)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C09F7&center=true&vCenter=true&random=false&width=435&lines=Front+End+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACKLearner&center=true&width=500&height=50"></a>
+</p> /></a>
 
 <p align="center">
  <a href="[https://linkedin.com/in/kashafdawood](https://www.linkedin.com/in/kashafdawood/)" target="_blank">
