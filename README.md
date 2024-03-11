@@ -20,7 +20,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gif](https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy.gif?cid=ecf05e47vwdpnzw2um9r3zwiv3aoe782ahrinlj72ejk6yqm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Coding gif" />
+ <img align="right" width="350" src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy.gif?cid=ecf05e47vwdpnzw2um9r3zwiv3aoe782ahrinlj72ejk6yqm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -54,6 +54,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KashafDawood&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KashafDawood&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <!--
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
