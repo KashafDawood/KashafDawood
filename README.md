@@ -20,8 +20,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy.gif?cid=ecf05e47vwdpnzw2um9r3zwiv3aoe782ahrinlj72ejk6yqm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
- <img align="right" width="350" src="[https://example.com/path/to/your/image.gif](https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy.gif?cid=ecf05e47vwdpnzw2um9r3zwiv3aoe782ahrinlj72ejk6yqm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Coding gif" />
+ <img align="right" width="350" src="asserts/programmer gif.webp" alt="Coding gif" />
 
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
