@@ -3,8 +3,9 @@
         <samp>&gt; Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> There!, I am Kashaf Dawood </samp>
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C09F7&lines=Front+End+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACKLearner&center=true&width=500&height=50"></a>
-</p></a>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C09F7&lines=Front+End+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACKLearner&center=true&width=500&height=50"></a>
+</p>
 
 <p align="center">
  <a href="[https://linkedin.com/in/kashafdawood](https://www.linkedin.com/in/kashafdawood/)" target="_blank">
