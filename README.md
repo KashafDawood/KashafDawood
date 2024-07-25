@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C09F7&lines=Front+End+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACK&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C09F7&lines=MERN+Stack+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACK&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
