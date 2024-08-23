@@ -4,11 +4,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C09F7&lines=MERN+Stack+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACK&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=9C09F7&lines=Web+Developer;UI%2FUX+Designer;Software+Engineer;Learning+MERN+STACK&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
- <a href="[https://linkedin.com/in/kashafdawood](https://www.linkedin.com/in/kashafdawood/)" target="_blank">
+ <a href="https://www.linkedin.com/in/kashafdawood/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kashaf LinkedIn"/>
  </a>
   <a href="https://www.upwork.com/freelancers/~0112896b05432a9144" target="_blank">
